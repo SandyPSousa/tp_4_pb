@@ -1,0 +1,8 @@
+id_recurso,id_projeto,descricao_recurso,tipo_recurso,quantidade_utilizada,data_utilizacao
+1,1,Licenças de software,Financeiro,1000.0,2023-01-15
+2,1,Equipamentos de informática,Material,20.0,2023-02-20
+3,2,Horas de consultoria,Humano,50.0,2023-03-10
+4,2,Serviços de nuvem,Financeiro,2000.0,2023-04-25
+5,3,Material de escritório,Material,150.0,2023-05-30
+6,4,Horas de desenvolvimento,Humano,80.0,2023-06-12
+7,5,Licenças de software,Financeiro,500.0,2023-07-18

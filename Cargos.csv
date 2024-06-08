@@ -1,0 +1,6 @@
+id_cargo,descricao,salario_base,nivel,modalidade_trabalho
+1,Analista,5000.0,Junior,Presencial
+2,Desenvolvedor,6000.0,Pleno,Remoto
+3,Gerente de Projetos,8000.0,Sênior,Presencial
+4,Estagiário,2000.0,Estágio,Presencial
+5,Analista de Dados,5500.0,Pleno,Remoto

@@ -1,0 +1,17 @@
+id_dependente,id_funcionario,nome_dependente,data_nascimento
+1,1,Ana,2005-05-15
+2,1,Luiz,2008-10-20
+3,2,Mariana,2010-03-25
+4,2,Pedro,2012-07-12
+5,3,Isabela,2017-01-30
+6,4,Julia,2019-08-05
+7,5,Lucas,2015-11-22
+8,5,Laura,2018-04-18
+9,6,Fernanda,2020-09-10
+10,7,Marcos,2019-06-03
+11,8,Gabriel,2016-08-15
+12,8,Sophia,2018-12-28
+13,9,Manuela,2017-03-20
+14,9,Rafael,2020-01-05
+15,10,Helena,2018-10-07
+16,10,Gustavo,2021-02-14

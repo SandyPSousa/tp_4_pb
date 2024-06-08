@@ -1,0 +1,6 @@
+id_projeto,nome_projeto,descricao,data_inicio,data_conclusao,id_funcionario_responsavel,custo_projeto,status
+1,Projeto Alpha,Desenvolvimento de um novo software de gestão empresarial,2023-01-01,2023-06-01,1,50000.0,Concluído
+2,Projeto Beta,Implementação de um sistema de inteligência artificial para análise de dados,2023-02-01,2023-07-01,2,30000.0,Concluído
+3,Projeto Gamma,Desenvolvimento de um aplicativo mobile para controle financeiro,2023-03-01,2023-08-01,3,20000.0,Em Execução
+4,Projeto Delta,Construção de um novo website institucional,2023-04-01,2023-09-01,4,15000.0,Em Execução
+5,Projeto Epsilon,Desenvolvimento de um sistema de gestão de estoque,2023-05-01,2023-10-01,5,10000.0,Cancelado

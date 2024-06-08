@@ -1,0 +1,6 @@
+id_departamento,nome_departamento,id_gerente,andar,parceiros_colaboradores
+1,TI,101,3,"Google, Microsoft"
+2,Recursos Humanos,102,2,"LinkedIn, Facebook"
+3,Marketing,103,4,"Twitter, Instagram"
+4,Financeiro,104,1,"Amazon, Apple"
+5,Operações,105,5,"Uber, Airbnb"
